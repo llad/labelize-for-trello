@@ -8,7 +8,7 @@ name to the box.
 
 Install Development Version
 ---------------------------
-1. Download the repository as a zip file
+1. Download the repository as a [zip file](https://github.com/llad/trelloLabelize/archive/master.zip)
 2. Extract zip
 3. Go to Chrome Exensions: [chrome://chrome/extensions/](chrome://chrome/extensions/)
 4. Click on Developer Mode checkbox
