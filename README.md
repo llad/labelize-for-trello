@@ -1,10 +1,13 @@
-trelloLabelize
+Trello Labelize
 ==============
 
 Chrome extension to add text to the display of labels on cards.  Infrequent users of a board may not remember what the
 label colors stand for.  The extension extends the height of the label on the card and adds the first three letters of the
 name to the box.
 
+Install Production Version
+---------------------------------
+Install [Trello Labelize](https://chrome.google.com/webstore/detail/trello-labelize/apomadkbijmkcninelgnidkhhkdmcfmn) from the Chrome Web Store.
 
 Install Development Version
 ---------------------------
