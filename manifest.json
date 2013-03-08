@@ -1,8 +1,8 @@
 {
 	"name": "Trello Labelize",
-	"version": "0.1",
+	"version": "1.0",
 	"manifest_version" : 2,
-	"description": "Chrome extension to control the display of labels on Trello",
+	"description": "Chrome extension to control the display of label names on Trello",
 	"content_scripts": [
 	{
 		"matches": ["https://trello.com/*"],
@@ -10,8 +10,6 @@
 	}
 	],
 	"icons": {
-		"16": "icons/16.png",
-		"48": "icons/48.png",
 		"128": "icons/128.png"
 	}
 }
