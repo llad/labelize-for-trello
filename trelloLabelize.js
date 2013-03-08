@@ -15,7 +15,6 @@
 
     // Variables
     var labelAbbrs = {},
-        labelData,
         labelSelector = "div.card-labels > div.card-label",
         cardSelector = "div.card-labels",
         boardHeaderSelector = "div#board-header",
