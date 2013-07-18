@@ -1,6 +1,6 @@
 {
-	"name": "Trello Labelize",
-	"version": "1.0",
+	"name": "Labelize for Trello",
+	"version": "1.2",
 	"manifest_version" : 2,
 	"description": "Chrome extension to control the display of label names on Trello",
 	"content_scripts": [

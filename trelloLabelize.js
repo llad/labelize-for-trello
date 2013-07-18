@@ -28,7 +28,7 @@
     // the list back.
     function getLabelNames(callback) {
         var URL = $(location).attr('href'),
-            boardID = URL.split('/')[5],
+            boardID = URL.split('/')[4],
             apiURL = apiRoot + boardID;
         
         labelAbbrs = {}; //Clear the object
